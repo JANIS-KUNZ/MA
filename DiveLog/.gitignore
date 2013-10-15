@@ -1,6 +1,7 @@
 .idea
 *.iml
 *.keystore
+.gradle
 /build
 /target
 **/target/*
@@ -15,3 +16,4 @@
 **/libs/*
 **/target
 **/gen
+/gen
